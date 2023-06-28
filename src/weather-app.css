@@ -53,4 +53,6 @@ h4 {
   text-align: center;
   font-family: cursive;
   font-weight: bold;
+  position: relative;
+  bottom: -25px;
 }
