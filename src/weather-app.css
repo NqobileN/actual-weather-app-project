@@ -52,7 +52,6 @@ h4 {
 .open-source {
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
-  position: relative;
+  position: absolute;
   bottom: -25px;
-  left: 45px;
 }
