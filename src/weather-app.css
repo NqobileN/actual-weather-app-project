@@ -50,8 +50,7 @@ h4 {
 }
 
 .open-source {
-  text-align: center;
-  font-family: cursive;
+  font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
   position: relative;
   bottom: -25px;
